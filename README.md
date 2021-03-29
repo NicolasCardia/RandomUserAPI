@@ -1,5 +1,5 @@
 # RandomUserAPI
-## _Criar uma **API** que retorna informações de um usuário aleatorio_ 💻
+## _Criar uma **API** que retorna informações de um usuário aleatorio_ ❓🤔
 
 ##### DESAFIO 💯
 
